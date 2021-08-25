@@ -33,6 +33,6 @@ Liste Ordonnée et Imbriqué
     * Révision de ce qu'on a déjà vu    
 
 ### Jean-louis en pleine réflexion lol!
-[Jean-louis]https://www.gif-maniac.com/gifs/50/49773.gif)
+![Jean-louis](https://www.gif-maniac.com/gifs/50/49773.gif)
 
 <p><a href="https://github.com/houdret/SENEGAL.git" title="Monn site perso en construction">Lien vers mon site perso en construction mais en ligne</a></p>
