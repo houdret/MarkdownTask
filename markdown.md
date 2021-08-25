@@ -1,7 +1,7 @@
 # Qu'est-ce que le MarkDown ?  
 
 **Contributeurs :** [Kaleidosport](https://github.com/Kaleidosport) et [houdret](https://github.com/houdret).  
-**Lien vers le README :** [README](https://github.com/Kaleidosport/MarkdownTask/blob/e189ec470199113d74d13861ea4ed8c34be30bd4/README.md)  
+**Lien vers le README :** [README](https://github.com/Kaleidosport/MarkdownTask/blob/2d339c9d9be5f41a2f0d6c96d5639097d488a487/README.md)  
 **Date de la dernière mise à jour :** 26/08/2021.  
   
   
@@ -28,3 +28,9 @@ On peut considérer que ce langage, comme ses pairs, a le mérite d'éviter au l
 4. Des images illustrant le propos  
 
 
+![Exemple](https://info474-s17.github.io/book/m4-imgs/markdown-structure.png)  
+
+## Pour aller plus loin  
+Vous trouverez aisément votre bonheur dans la documentation parsemant le web, à l'image de [cette page](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).  
+  
+![Good luck](https://yzgeneration.com/wp-content/uploads/2014/06/Hunger-Games-Sign.gif)
