@@ -2,7 +2,10 @@
 ![Bannière](https://p2.piqsels.com/preview/1012/605/105/welcome-to-our-home-welcome-tablet-an-array-of.jpg)
 # MarkdownTask
 ## Création du premier Mardown en équipe Anthony et jean-louis
-
+**Contributeurs :** @Kaleidosport et @houdret.  
+**Contributeurs :** [Kaleidosport](https://github.com/Kaleidosport) et [houdret](https://github.com/houdret).  
+**Lien vers le README :** [README](https://github.com/Kaleidosport/MarkdownTask/blob/e189ec470199113d74d13861ea4ed8c34be30bd4/markdown.md)  
+**Date de la dernière mise à jour :** 26/08/2021.  
 ###Liste des différents travaux à faire
 Liste Ordonnée
 
