@@ -4,31 +4,34 @@
 ## Création du premier Mardown en équipe Anthony et jean-louis
 
 ###Liste des différents travaux à faire
-<p>Liste Ordonnée</p>
-1. Semaine 1
-2. Semaine 2
-3. Semaine 3
-4. Semaine 4
+Liste Ordonnée
+
+1. Semaine 1  
+2. Semaine 2  
+3. Semaine 3   
+4. Semaine 4 
 
 Liste Déordonnée
+
 * Git  
 * Html  
 * CSS  
 * Javascript  
 
-<p>Liste Ordonnée et Imbriqué</p>
-1. Semaine 1
-  * Git
-  * Html
-  * CSS
- 2. Semaine 2
-    * Approche du Javascript
-    * Html et CSS avancé
- 3. Semaine 3
-    *  Javascript en Profondeur
- 4. Semaine 4
-    * Révision de ce qu'on a déjà vu
-    * 
+Liste Ordonnée et Imbriqué
+
+1. Semaine 1   
+  * Git  
+  * Html  
+  * CSS  
+ 2. Semaine 2  
+    * Approche du Javascript  
+    * Html et CSS avancé  
+ 3. Semaine 3  
+    *  Javascript en Profondeur  
+ 4. Semaine 4  
+    * Révision de ce qu'on a déjà vu    
+
 ### Jean-louis en pleine réflexion lol!
 [Jean-louis](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gif-maniac.com%2Fgifs%2F50%2F49785.gif&imgrefurl=https%3A%2F%2Fwww.gif-maniac.com%2Fordinateur%2Finformatique%2F&tbnid=TCVeT1xm6xukFM&vet=12ahUKEwi28sjU4cvyAhVS66QKHdoiAL0QMygAegUIARDwAQ..i&docid=QhBgU4bTSjvvqM&w=253&h=190&q=gif%20informaticien&ved=2ahUKEwi28sjU4cvyAhVS66QKHdoiAL0QMygAegUIARDwAQ)
 
