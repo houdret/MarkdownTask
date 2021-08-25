@@ -19,3 +19,12 @@ S'agissant desdits styles, voici quelques exemples :
 On l'utilise notamment sur GitHub, tant dans les commentaires que dans les fichiers disposant d'une extension .md ou .markdown.  
 Pour ce faire, on recourt simplement aux caractères de l'alphabet agrémentés de <, # et autres \*\.  
 Entre autres posibilités, on obtiendra un titre de 1er niveau comme suit : `# Insérer titre`.  
+  
+## Objectifs  
+On peut considérer que ce langage, comme ses pairs, a le mérite d'éviter au lecteur une bouillie indigeste car informe. Bien utilisé, le MarkDown a vocation à favoriser l'émergence d'une structure soutenant le propos et guidant tout un chacun à travers la réflexion du rédacteur. Un titre donne le ton et identifie une catégorie à part entière, un passage en gras dénote une importance plus élevée que ce qui l'entoure, etc. On retrouve d'ailleurs une structure standard dans tous les README, à savoir :  
+1. Un titre correspondant au nom du projet ou une de ses sous-parties
+2. D'autres titres et sous-titres annonçant des blocs d'informations pertinents
+3. Des bouts de codes éveillant l'intérêt technico-pratique
+4. Des images illustrant le propos  
+
+
