@@ -10,11 +10,11 @@
 3. Semaine 3
 4. Semaine 4
 
-<p>Liste Déordonnée</p>
-* Git
-* Html
-* CSS
-* Javascript
+Liste Déordonnée
+* Git  
+* Html  
+* CSS  
+* Javascript  
 
 <p>Liste Ordonnée et Imbriqué</p>
 1. Semaine 1
